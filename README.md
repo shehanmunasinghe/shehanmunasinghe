@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on video understanding and large multimodal models 
+
+📫 How to reach me: shehan.munasinghe@mbzuai.ac.ae
